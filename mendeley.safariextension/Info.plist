@@ -28,7 +28,7 @@
 				<key>Identifier</key>
 				<string>add-doc</string>
 				<key>Image</key>
-				<string>mendeley-logo-groot.png</string>
+				<string>mendeley-logo.png</string>
 				<key>Include By Default</key>
 				<true/>
 				<key>Label</key>
